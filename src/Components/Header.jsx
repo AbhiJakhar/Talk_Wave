@@ -10,7 +10,7 @@ import {
 const Header = ({user, logoutHandler}) => {
   return (
     <HStack w="full" bg={"teal"} p={'2'} mb={'2'}  borderRadius={"md"}>
-    <Text fontSize='3xl' color='white' fontWeight='bold'>WE_TEXTING</Text>
+    <Text fontSize='3xl' color='white' fontWeight='bold'>Talk Wave</Text>
     <Spacer />
     <HStack>
     <Avatar size='sm' src={user} />

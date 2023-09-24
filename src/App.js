@@ -135,7 +135,7 @@ function App() {
         </Container>
       ) : (
         <VStack bg="white" justifyContent={"center"} h="100vh">
-          <Text fontSize='4xl' fontWeight='bold'>WE_TEXTING</Text>
+          <Text fontSize='4xl' fontWeight='bold'>TALK_WAVE</Text>
             <Image
     h={'70vh'}
     objectFit='cover'
